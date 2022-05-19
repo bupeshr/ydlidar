@@ -1,0 +1,3 @@
+digraph G {
+"base_footprint" -> "laser_frame"[label="Broadcaster: /base_link_to_laser4\nAverage rate: 25.120 Hz\nMost recent transform: 1652674126.197 \nBuffer length: 4.936 sec\n"];
+}
